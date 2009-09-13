@@ -1,0 +1,15 @@
+div.search-relevance {
+    color:#999;
+    font-size:91%;
+    line-height:100%;
+    float:right;
+    margin-top:4px;
+}
+
+div.search-relevance-display {
+    float:right;
+    height:9px;
+    background: transparent url('../images/relevance.png') no-repeat right;
+    margin-top:8px;
+    margin-right:1px;
+}

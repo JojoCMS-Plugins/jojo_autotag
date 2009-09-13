@@ -1,0 +1,1 @@
+Uses site search to add search term as tags to results above relevance 1.
